@@ -1,5 +1,4 @@
-"""
-Document desctrpition:
+# Document desctrpition:
 
 3D_recon.py: 3D reconstruction script, including cross derivatives and masks. 
 	Notice: the dataset range will somehow affect the reconstruction result, default range was tested to have good reconstruction.
@@ -26,4 +25,3 @@ D_aftmask.npy: D_all.npy after applying mask in space-time domain (for the remov
 
 RSF.zip: RSF filels for the turbulence seismic wavefield.
 
-"""
