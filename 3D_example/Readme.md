@@ -1,7 +1,6 @@
 # Document desctrpition:
 
-3D_recon.py: 3D reconstruction script, including cross derivatives and masks. (range:[:,10:291,10:291])
-Notice: The dataset range will somehow affect the reconstruction result, default range was tested to have good reconstruction. The dataset is read from rsf files, change it if you want to use your own dataset. Or if you want to use the existing dataset, you probally need to change the header files (the description on directory), to make the rsf readable. 
+3D_recon.py: 3D reconstruction script, including cross derivatives and masks. (range:[:,10:291,10:291]). Notice: The dataset range will somehow affect the reconstruction result, default range was tested to have good reconstruction. The dataset is read from rsf files, change it if you want to use your own dataset. Or if you want to use the existing dataset, you probally need to change the header files (the description on directory), to make the rsf readable. 
 			These messgages applied to any of the 3D reconstrction example.
 
 3D_recon_nomask.py: 3D reconstruction without masks (in x-t and f-k domain), for the purpose of comparison.
