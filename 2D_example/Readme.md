@@ -1,5 +1,4 @@
-"""
-Document desctrpition:
+# Document desctrpition:
 
 All notebooks in this folder are related to 2D reconstruction.
 
@@ -14,5 +13,3 @@ Partioning.ipynb: an extension from Curve-focus_sampling.ipynb, solving left fla
 GulfOfSuez128.mat: an example of 2D sediment seismic dataset.
 
 Radon.py: a small try to use radon transform (failed).
-
-"""
