@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task=48
 #SBATCH --time=48:00:00
 #SBATCH --job-name=tur_03
-#SBATCH --mail-user=j.ruan@students.uu.nl
+#SBATCH --mail-user=###your email
 #SBATCH --mail-type=ALL
 #SBATCH --export=all
 
